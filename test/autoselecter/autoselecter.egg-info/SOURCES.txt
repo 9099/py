@@ -1,0 +1,9 @@
+setup.py
+autoselecter/__init__.py
+autoselecter/__main__.py
+autoselecter.egg-info/PKG-INFO
+autoselecter.egg-info/SOURCES.txt
+autoselecter.egg-info/dependency_links.txt
+autoselecter.egg-info/entry_points.txt
+autoselecter.egg-info/requires.txt
+autoselecter.egg-info/top_level.txt
