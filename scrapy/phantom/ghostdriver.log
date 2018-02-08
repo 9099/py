@@ -1,0 +1,31 @@
+[INFO  - 2017-07-21T03:22:12.477Z] GhostDriver - Main - running on port 59974
+[INFO  - 2017-07-21T03:22:15.745Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-21T03:22:15.745Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.customHeaders:  - {}
+[INFO  - 2017-07-21T03:22:15.745Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-21T03:22:15.745Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cb714d60-6dc3-11e7-ac04-352757c08dde
+[ERROR - 2017-07-21T03:22:18.400Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) 无法找到此视频兼容的源。 [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-21T03:22:18.400Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-21T03:22:18.408Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-21T03:22:18.408Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - stack:
+  play (http://s3a.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+  (anonymous function) (http://s3a.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  (anonymous function) (http://s3a.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  forEach (:0)
+  (anonymous function) (http://s3a.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  r (http://s3a.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-21T03:22:18.414Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) 无法找到此视频兼容的源。 [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-21T03:22:18.414Z] Session [cb714d60-6dc3-11e7-ac04-352757c08dde] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
